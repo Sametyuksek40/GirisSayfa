@@ -1,0 +1,11 @@
+C:\Users\T-F15\Desktop\C#_1\LoginFormm\LoginFormm\bin\Debug\LoginFormm.exe.config
+C:\Users\T-F15\Desktop\C#_1\LoginFormm\LoginFormm\bin\Debug\LoginFormm.exe
+C:\Users\T-F15\Desktop\C#_1\LoginFormm\LoginFormm\bin\Debug\LoginFormm.pdb
+C:\Users\T-F15\Desktop\C#_1\LoginFormm\LoginFormm\obj\Debug\LoginFormm.csproj.AssemblyReference.cache
+C:\Users\T-F15\Desktop\C#_1\LoginFormm\LoginFormm\obj\Debug\LoginFormm.Form1.resources
+C:\Users\T-F15\Desktop\C#_1\LoginFormm\LoginFormm\obj\Debug\LoginFormm.Properties.Resources.resources
+C:\Users\T-F15\Desktop\C#_1\LoginFormm\LoginFormm\obj\Debug\LoginFormm.csproj.GenerateResource.cache
+C:\Users\T-F15\Desktop\C#_1\LoginFormm\LoginFormm\obj\Debug\LoginFormm.csproj.CoreCompileInputs.cache
+C:\Users\T-F15\Desktop\C#_1\LoginFormm\LoginFormm\obj\Debug\LoginFormm.exe
+C:\Users\T-F15\Desktop\C#_1\LoginFormm\LoginFormm\obj\Debug\LoginFormm.pdb
+C:\Users\T-F15\Desktop\C#_1\LoginFormm\LoginFormm\obj\Debug\LoginFormm.Form2.resources
